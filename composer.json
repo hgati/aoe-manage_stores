@@ -1,5 +1,5 @@
 {
-    "name": "aoe/manage-stores",
+    "name": "hadoos/aoe-manage_stores",
     "type": "magento-module",
     "description": "비동기로 백그라운드작업으로 캐시 새로고침",
 
