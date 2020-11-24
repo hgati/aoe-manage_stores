@@ -1,2 +1,3 @@
-# aoe-manage_stores
+# Magento aoe-manage_stores
 
+AOE is a leading global provider of services for digital transformation and business models. AOE relies exclusively on established Enterprise Open Source...
