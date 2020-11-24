@@ -1,7 +1,7 @@
 {
     "name": "hgati/aoe-manage_stores",
     "type": "magento-module",
-    "description": "비동기로 백그라운드작업으로 캐시 새로고침",
+    "description": "aoepeople's magento extension folk",
 
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
